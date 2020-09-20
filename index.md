@@ -50,6 +50,10 @@ An ongoing [project](https://polymathic.usc.edu/ahmanson-lab/ahmanson-lab-workin
 *Tools*: C++, Dlib, CPython, Maximillian, PureData, STK, Python
 
 ---
+## Data Science
+> Projects to be added soon! I'm still working on compiling everything which has taken a back seat since school started :-) 
+
+---
 
 ## Entrepreneurship
 ### Squad.
