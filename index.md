@@ -1,10 +1,10 @@
-# About me
-Hello there! I'm an undergraduate senior and progressive master's student @ USC studying cognitive science, informatics, and computer science! I love everything about development--the process of learning new languages & technologies, collaborating with others, and making an impact with the things we create. Over the past few years I've had the amazing opportunities to intern at [IBM](https://www.ibm.com/products/aspera) and [Automation Anywhere](https://www.automationanywhere.com/company/about-us) and am actively looking for Summer 2021 development internships!
+### About me
+Hello there! I'm an undergraduate senior and progressive master's student @ USC studying cognitive science, informatics, and computer science! I love everything about development--the process of learning new languages & technologies, collaborating with others, and making an impact with the things we create. Over the past few years I've had some amazing opportunities to intern at [IBM](https://www.ibm.com/products/aspera) and [Automation Anywhere](https://www.automationanywhere.com/company/about-us) and am actively looking for Summer 2021 development internships!
 
-In my freetime I enjoy nerding out about Star Wars, hanging out with the amazing kids of [USC Troy Camp](http://www.troycamp.org/), boxing, and playing volleyball. I've compiled my skills, projects, and other useful links about me and my work on this page. Thanks for visiting, and feel free to reach out  at vehling@usc.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/elisabeth-vehling)!
+In my freetime I enjoy nerding out about Star Wars, hanging out with the amazing kids of [USC Troy Camp](http://www.troycamp.org/), boxing, and playing volleyball. Thanks for visiting, and feel free to reach out  at vehling@usc.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/elisabeth-vehling)!
 
 ~ Elisabeth
-> [ps: click here for a fun  'traditional' experience ;)](home.html)
+> ps: click [here](home.html) for a fun 'traditional' experience ;)
 
 # Projects
 ## Hackathons
