@@ -1,12 +1,12 @@
 > Hello there! I'm Elisabeth, an undergraduate senior and progressive master's student @ USC studying cognitive science, informatics, and computer science! I love everything about development--the process of learning new languages & technologies, collaborating with others, and making an impact with the things we create. In my freetime I enjoy nerding out about Star Wars, hanging out with the amazing kids of [USC Troy Camp](), boxing, and playing volleyball. I've compiled my skills, projects, and other useful links about me and my work on this page. Thanks for visiting, and feel free to reach out  at vehling@usc.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/elisabeth-vehling)!
 
 > ~ Elisabeth
-> [ps: click here for a more 'traditional' experience ;)](link to self made site)
+> [ps: click here for a fun  'traditional' experience ;)](home.html)
 
 # Projects
 ## Hackathons
 ### UNBI
-*@ IBM North America Intern Hackathon, 2020*
+*IBM North America Intern Hackathon, 2020*
 
 Over the course of a few days, 3 other IBM interns and I developed a web service--[UNBI](https://www.youtube.com/watch?v=FAJ6HNLSHcw)--that automatically detects and redacts racially identifying information from police reports--the goal of this project was to reduce the effects of implicit bias during the prosecution phase. 
 
