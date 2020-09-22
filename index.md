@@ -22,10 +22,10 @@ Over the course of a few days, 3 other IBM interns and I developed a web service
 ### WebDM
 *HackSC, 2020*
 
-[WebDM](https://github.com/evehling/webdm) is a web plugin that aimed to make the process of "googling" medical symptoms more informed and accessible to everyone. 
+[WebDM](https://github.com/evehling/webdm) is a web plugin that aimed to make the process of "googling" medical symptoms more informed and accessible to everyone.  Here's a quick demo of how the backend uses NLP to classify user queries.
 
 *Tools*: JavaScript, Python, ngrok, Flask, SpaCy
-
+![webdm demo](images/webdm_demo.gif)
 ---
 
 ### IntuiStride (First Place)
@@ -63,9 +63,12 @@ An ongoing [project](https://polymathic.usc.edu/ahmanson-lab/ahmanson-lab-workin
 ## Entrepreneurship
 ### Squad.
 *USC SEP Kappa Pitch Competition*
-
+![Squad screen shot](images/squad.png)
 Squad is a mobile application designed to make planning meet ups with family and friends easier and faster. See the pitch deck [here](https://docs.google.com/presentation/d/1e3_VjcWom2szqyCH4v73wUhQ-P4Wqk0xAiEm1RfdWPg/edit?usp=sharing)! 
 
+
+
+![Squad demo](images/squad_demo.gif)
 --- 
 
 ### Scale
