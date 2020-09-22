@@ -25,25 +25,30 @@ Over the course of a few days, 3 other IBM interns and I developed a web service
 [WebDM](https://github.com/evehling/webdm) is a web plugin that aimed to make the process of "googling" medical symptoms more informed and accessible to everyone.  Here's a quick demo of how the backend uses NLP to classify user queries.
 
 *Tools*: JavaScript, Python, ngrok, Flask, SpaCy
+
 ![webdm demo](images/webdm_demo.gif)
 ---
 
 ### IntuiStride (First Place)
 *ASBME Makeathon, 2019*
-
-Myself and an interdisciplinary team of 4 other USC Viterbi students developed a working assistive device in 48 hours. The device, nicknamed Intuistride is a functioning walker embedded with an automatic braking system and haptic feedback designed to allievate common Parkinsons' symptoms. [Here's](https://viterbischool.usc.edu/news/2019/03/the-future-of-med-tech-innovation-in-just-48-hours/) a cool article about our project!
+![intuistride](images/intuistride.png)
+Myself and an interdisciplinary team of 4 other USC Viterbi students developed a working assistive device in 48 hours. The device, nicknamed Intuistride is a functioning walker embedded with an automatic braking system and haptic feedback designed to allievate common Parkinsons' symptoms. [Here's](https://viterbischool.usc.edu/news/2019/03/the-future-of-med-tech-innovation-in-just-48-hours/) a cool article about our project! [This](https://docs.google.com/presentation/d/1DRP9TQrEx0iLSi02GcSgMqo9p2F1_tDVz28ydzTtrE4/edit?usp=sharing) was our final presentation.
 
 *Tools*: Arduino, C
 
 ---
 ## Ahmanson Lab Projects
+![ahmanson header](images/ahmanson.png)
 The USC Sydney Harman Academy for Polymathic study has been an incredible place to have the opportunity to be involved in for the last few years. The Ahmanson Lab is a part of the Harman Academy that funds and organizes annual projects. From 2018-2019, I was an [Ahmanson Lab innovation scholar](https://polymathic.usc.edu/ahmanson-lab/innovation-scholars/ahmanson-lab-innovation-scholars-2018-2019) where I worked on the Terraforming Mars collaboratory and am still involved with the Neural Sound Resynth working group.
 
 
 ### Terraforming Mars
 *USC Ahmanson Lab*
-
+![terraforming mars menu](images/terraforming_mars.png)
 As a part of a year long project, [Terraforming Mars](https://polymathic.usc.edu/ahmanson-lab/collaboratories/ahmanson-lab-collaboratories-2018-2019), our team conducted research on plant growth in closed environments as well as developed a [VR simulation](https://github.com/ahmanson-lab/terraforming-mars-vr) of Mars Habitat. 
+
+
+![vr screenshots](images/marsvr_demo.gif)
  
 ---
 
