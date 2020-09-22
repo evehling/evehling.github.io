@@ -10,10 +10,12 @@ In my freetime I enjoy nerding out about Star Wars, hanging out with the amazing
 ## Hackathons
 ### UNBI
 *IBM North America Intern Hackathon, 2020*
-
+![UNBI logo](images/unbi.png)
 Over the course of a few days, 3 other IBM interns and I developed a web service--[UNBI](https://www.youtube.com/watch?v=FAJ6HNLSHcw)--that automatically detects and redacts racially identifying information from police reports--the goal of this project was to reduce the effects of implicit bias during the prosecution phase. 
 
 *Tools*: Python, JavaScript, IBM Watson Natural Language Classifier API, Microsoft Computer Vision API
+
+![Demo of UNBI](images/unbi_demo.gif)
 
 --- 
 
